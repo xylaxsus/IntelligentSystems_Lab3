@@ -1,1 +1,0 @@
-# IntelligentSystems_Lab3
